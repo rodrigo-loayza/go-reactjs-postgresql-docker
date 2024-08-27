@@ -1,5 +1,3 @@
-# Go
-
 # Directorio de salida de compilación
 /bin/
 /build/
@@ -20,7 +18,6 @@ main
 # Archivos generados por comandos como gofmt
 *.orig
 
-# React (Node.js)
 
 # Node modules
 /node_modules/
@@ -55,13 +52,8 @@ yarn-error.log*
 # Archivos del sistema
 .DS_Store
 Thumbs.db
-
-# Otros
-
 # Archivos generados por editores de texto
 .vscode/
-.idea/
-*.sublime-workspace
 
 # Archivos de configuración específicos del sistema operativo
 *.swp
