@@ -1,0 +1,26 @@
+.student-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .student-card {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 15px;
+    width: 300px;
+    text-align: left;
+  }
+  
+  .student-card h3 {
+    margin: 0;
+    color: #333;
+  }
+  
+  .student-card p {
+    margin: 5px 0 0;
+    color: #666;
+  }
+  
